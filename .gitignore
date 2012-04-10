@@ -1,5 +1,6 @@
 _build/build.config.php
 config.core.php
+.directory
 .idea
 .settings
 nbproject
